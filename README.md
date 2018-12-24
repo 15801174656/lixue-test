@@ -1,7 +1,10 @@
 # mall-admin-web
 
 ## 说明
+源地址：https://github.com/macrozheng/mall-admin-web
 
+
+此项目是练习使用
 > 基于vue+element的电商后台管理系统，完整实现了整个流程。
 
 > 该项目为前后端分离项目，搭建步骤具体参考后端项目[传送门](https://github.com/macrozheng/mall)。
@@ -26,7 +29,7 @@
 
 ## 项目演示
 
-项目在线演示地址：[www.macro.com/mall-admin/index.html](http://39.98.69.210/index.html)  
+项目在线演示地址：[www.macro.com/mall-admin/index.html](http://39.98.69.210/index.html)
 
 ![https://github.com/macrozheng/mall/blob/master/document/resource/mall-admin.gif](https://github.com/macrozheng/mall/blob/master/document/resource/mall-admin.gif)
 
